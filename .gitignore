@@ -107,3 +107,15 @@ uploads/
 # owner
 release/
 !/client/src/@types/i18next.d.ts
+
+# Additional ignored files and directories
+agents_context/
+check_updates.sh
+files/
+latex/
+mcp-servers/
+puppeteer/
+puppeteer_*/
+*.bak
+*.backup*
+requesty-librechat.yml
